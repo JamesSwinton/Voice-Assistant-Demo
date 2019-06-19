@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Co-Op Voice Demo</string>
+
+  <!-- Dialog Flow Token -->
+  <string name="default_ai_access_token">0c03343a5c354bf9b37679d963958aa7</string>
+
+</resources>

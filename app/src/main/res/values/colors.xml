@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">@color/morrisons_yellow</color>
+  <color name="colorPrimaryDark">@color/morrisons_yellow_dark</color>
+  <color name="colorAccent">@color/morrisons_green</color>
+
+  <color name="morrisons_green">#FFFFFF</color>
+  <color name="morrisons_yellow">#00ABD9</color>
+  <color name="morrisons_yellow_dark">#016B88</color>
+</resources>
